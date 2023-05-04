@@ -1,4 +1,4 @@
-# WhoDupMe <a href="https://twitter.com/intent/follow?screen_name=dreyand_"><img src="https://img.shields.io/twitter/follow/DreyAnd.svg?style=social&label=Follow"></a>
+# WhoDupMe <a href="https://twitter.com/intent/follow?screen_name=PushkraJ99"><img src="https://img.shields.io/twitter/follow/DreyAnd.svg?style=social&label=Follow"></a>
 
 ## Contents:
 
