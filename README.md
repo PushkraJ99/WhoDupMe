@@ -26,9 +26,11 @@ You can follow these steps:
 
 ```bash
 $ git clone https://github.com/DreyAnd/WhoDupMe
-$ cd WhoDupMe/cmd; go build
+$ cd WhoDupMe/cmd/WhoDupMe; go build
 $ sudo mv WhoDupMe /usr/local/bin 
 $ WhoDupMe -h
+
+$ WhoDupMe --program_name=" " --report_id=" " --h1_session=" "
 ```
 
 ## Usage:
@@ -76,6 +78,6 @@ Help Options:
 
 ## TODO:
 
-* Add concurrency for more speed.
+* ~~Add concurrency for more speed.~~
 * Add the possibility to automatically get all duplicated report IDs for a program and dump info for all.
 * Add a debug `-v` mode
