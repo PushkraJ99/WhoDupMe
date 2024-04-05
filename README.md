@@ -17,7 +17,7 @@ Note: For this tool to work the report you got a duplicate on has to be in *reso
 #### From source:
 
 ```bash
-$ go install github.com/DreyAnd/WhoDupMe/cmd/WhoDupMe@latest
+go install github.com/DreyAnd/WhoDupMe/cmd/WhoDupMe@latest
 ```
 
 #### From GitHub:
@@ -25,12 +25,12 @@ $ go install github.com/DreyAnd/WhoDupMe/cmd/WhoDupMe@latest
 You can follow these steps:
 
 ```bash
-$ git clone https://github.com/DreyAnd/WhoDupMe
-$ cd WhoDupMe/cmd/WhoDupMe; go build
-$ sudo mv WhoDupMe /usr/local/bin 
-$ WhoDupMe -h
+git clone https://github.com/DreyAnd/WhoDupMe
+cd WhoDupMe/cmd/WhoDupMe; go build
+sudo mv WhoDupMe /usr/local/bin 
+WhoDupMe -h
 
-$ WhoDupMe --program_name=" " --report_id=" " --h1_session=" "
+WhoDupMe --program_name=" " --report_id=" " --h1_session=" "
 ```
 
 ## Usage:
